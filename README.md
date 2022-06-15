@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Seymoe!</h1>
+<h1 align="center">Hi 👋, I'm Sean Tang!</h1>
 <h3 align="center">A passionate frontend developer from China.</h3>
 
 - 🔭 I’m currently working on [Shiji](https://www.shijigroup.com/)
