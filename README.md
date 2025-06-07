@@ -13,4 +13,4 @@
 
 - 💬 Ask me about **react, vue, nodejs...**
 
-- 📫 How to reach me **seymoe@yeah.net**
+- 📫 How to reach me **imseantang@gmail.com**
